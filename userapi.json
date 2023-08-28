@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "company": "TechCo Innovations",
+      "phone": "555-123-4567",
+      "city": "Metropolis",
+      "social_security": "123-45-6789",
+      "catchphrase": "Inventing Tomorrow, Today!",
+      "school": "Eureka High School"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "company": "Globetrotter Travels",
+      "phone": "555-987-6543",
+      "city": "Adventureville",
+      "social_security": "987-65-4321",
+      "catchphrase": "Explore the Unseen",
+      "school": "Wanderlust Academy"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael@example.com",
+      "company": "Culinary Delights",
+      "phone": "555-555-1212",
+      "city": "Foodville",
+      "social_security": "567-89-0123",
+      "catchphrase": "Savor the Moment",
+      "school": "Gourmet Institute"
+    }
+  ]
+  

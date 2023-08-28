@@ -1,0 +1,20 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chalk": "^5.3.0",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "nodemailer": "^6.9.4",
+    "sqlite3": "^5.1.6"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon httpserver.js"
+  },
+  "author": "subayyal saeed",
+  "license": "ISC",
+  "description": "subayyal saeed"
+}
